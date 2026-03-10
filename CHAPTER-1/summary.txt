@@ -1,0 +1,15 @@
+
+
+Class & Object
+    - Class is a Blueprint That u can Create Object from
+    - Object is a Member in the Main Application
+    - Class Has Properties:
+        - Variable Inside Class = Property
+        - Variable Outside Class = Variable
+        - Function Inside Class = Method
+        - Function Outside Class = Function
+
+    - [ new ] = New Object Keyword
+    - [ Public ] = Visibility Markers
+    - [ -> ] = Object Operator
+    - [ $this ] = Pseudo Variable Operator
