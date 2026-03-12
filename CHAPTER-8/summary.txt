@@ -1,0 +1,31 @@
+============================================================
+       CHAPTER 8 SUMMARY: OOP 
+============================================================
+
+1. CLASS 
+   - A blueprint or a map for building objects.
+
+2. OBJECT 
+   - The real item created from the class blueprint.
+
+3. PROPERTIES 
+   - Variables inside the class to store data.
+
+4. METHODS 
+   - Functions inside the class to perform actions.
+   - الدوال الموجودة داخل الفئة للقيام بأفعال معينة.
+
+5. CONSTRUCTOR (__construct) [دالة البناء]
+   - A function that runs automatically at birth.
+
+6. INHERITANCE (extends) [الوراثة]
+   - When a Child class takes features from a Parent.
+   - عملية انتقال مميزات الفئة الأب إلى الفئة الابن.
+
+7. VISIBILITY 
+   - Controlling access (Public: Open, Private: Secret).
+
+8. PARENT:: 
+   - Used to call a function from the Parent class.
+   - كلمة تستخدم لاستدعاء وظيفة من الفئة الأب.
+
