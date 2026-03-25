@@ -1,0 +1,21 @@
+============================================================
+       CHAPTER SUMMARY: ENCAPSULATION
+============================================================
+
+1. ENCAPSULATION [التغليف]
+    - Hiding and protecting data inside the class.
+
+2. PRIVATE
+    - A keyword that locks the property. No one can access it from outside.
+
+3. SETTER
+    - A method used to check and save new data into a private property.
+
+4. GETTER 
+    - A method used to read data from a private property safely.
+
+5. VALIDATION 
+    - Checking if the data is correct before saving it (like checking length).
+
+6. htmlspecialchars()
+    - A tool that stops hackers by turning dangerous code into normal text.
