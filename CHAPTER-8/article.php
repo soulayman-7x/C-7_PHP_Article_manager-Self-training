@@ -49,7 +49,7 @@ class BlogArticle extends Article {
 $article1 = new BlogArticle(
     "IT WAVE 2026 - Tangier",
     "The ultimate technology event is scheduled for April 13 to 17. Prepare for a full deep-dive into the future of Web Development and Cloud Computing.",
-    "System Admin"
+    "System Admin system"
 );
 
 echo $article1->display();
